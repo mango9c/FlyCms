@@ -40,8 +40,8 @@ spring:
   ##数据库连接信息
   datasource:
       url: jdbc:mysql://111.231.216.63:3306/flycms?useSSL=false&useUnicode=true&characterEncoding=UTF-8
-      username: root
-      password: Liulz123
+      username: root2
+      password: xxx
       driver-class-name: com.mysql.jdbc.Driver
       ###################以下为druid增加的配置###########################
       type: com.alibaba.druid.pool.DruidDataSource
